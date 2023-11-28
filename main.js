@@ -3,6 +3,9 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 
+//import the router 
+import router from './router'
+
 //importing all files needed
 
 //input box
