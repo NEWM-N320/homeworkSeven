@@ -33,4 +33,4 @@ app.component('slotted-button', SlottedButton);
 
 
 //mount the app
-createApp(App).mount('#app')
+app.mount('#app')
