@@ -1,3 +1,4 @@
+<!-- app.vue -->
 <!-- template w/ the app form -->
 <template>
     <div id="app">
